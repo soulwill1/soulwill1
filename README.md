@@ -2,14 +2,6 @@
 
 Me chamo **William Veríssimo**, sou desenvolvedor full stack e engenheiro de software.</br>
 
-- Amo trabalhar com front-end e observar a interface criando vida.</br>
-- Minhas linguagens preferidas são Golang e Rust.</br>
-- Nas horas vagas costumo turbinar veículos e participar de corridas no autódromo</br>
-</br>
-</br>
-
->Algumas habilidades e ferramentas do dia a dia. </br>
-
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
