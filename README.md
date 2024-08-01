@@ -1,6 +1,14 @@
 ### Olá 👋
 
-Me chamo **William Veríssimo**, sou desenvolvedor full stack e engenheiro de software.</br>
+Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de tecnologia. <br/> Atuei como técnico e analista de infraestruturas e ao longo dos anos adquiri conhecimentos nestas tecnologias:<br>
+
+ - C | Golang | Rust | Python
+ - React | NextJS | Tailwind | Typescript
+ - PostgreSQL | MySQL | MongoDB
+ - AWS | Azure
+ - Linux | Windows
+ - SOC | Firewall | ISO27001
+ - Docker | .NET e outras..
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
