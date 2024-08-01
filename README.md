@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de tecnologia. <br/> Atuei como técnico, analista de infraestruturas e engenheiro de software ao longo dos anos adquiri conhecimentos nestas tecnologias:<br>
+Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de tecnologia. <br> Atuei como técnico, analista de infraestruturas e engenheiro de software ao longo dos anos adquiri conhecimentos nestas tecnologias:<br>
 
  - C | Golang | Rust | Python
  - React | NextJS | Tailwind | Typescript
@@ -8,7 +8,7 @@ Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de te
  - AWS | Azure
  - Linux | Windows
  - SOC | Firewall | ISO27001
- - Docker | .NET e outras..
+ - Docker | .NET e outras.. <br>
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
