@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de tecnologia. <br> Atuei como técnico, analista de infraestruturas e engenheiro de software ao longo dos anos adquiri conhecimentos nestas tecnologias:<br>
+Me chamo **William Veríssimo**, sou desenvolvedor e entusiasta de tecnologia. <br> Atuei como técnico, analista de infraestruturas e engenheiro de software ao longo dos anos adquiri conhecimentos nestas tecnologias:<br>
 
  - C | Golang | Rust | Python
  - React | NextJS | Tailwind | Typescript
