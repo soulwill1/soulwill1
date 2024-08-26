@@ -7,8 +7,7 @@ Me chamo **William Veríssimo**, sou desenvolvedor, estudante e entusiasta de te
  - PostgreSQL | MySQL | MongoDB
  - AWS | Azure
  - Linux | Windows
- - SOC | Firewall | ISO27001
- - Docker | .NET e outras.. <br>
+ - Docker e outras.. <br>
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
